@@ -4,6 +4,9 @@
 */
 function mostrar()
 {
-	
+	var dato;
+	dato=prompt("Inserte su dato aquí");
+//	document. (debera ser un comando nuevo)
+
 }
 
